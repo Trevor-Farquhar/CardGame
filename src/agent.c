@@ -5,7 +5,7 @@
 
 
 
-typedef struct AStarNode AStarNode;
+typedef struct AStarNode AStarNode; //test
 struct AStarNode {
   AStarNode *prev_path; // previous node in the path
   AStarNode *next_list; // next in the list
